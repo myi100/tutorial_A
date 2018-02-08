@@ -20,4 +20,4 @@ intall.packages("lubridate")
 
 3. Download and run psychophys, execute the following command in the RStudio console: 
 
-shiny::runGitHub('psychophys', 'myi100')
+shiny::runGitHub('tutorial_A', 'myi100')
